@@ -1,2 +1,13 @@
 es:
-  hello: 'Hola Rails'
+  categories:
+    portrait: 'Retrato'
+    landscape: 'Panorama'
+    city: 'Ciudad'
+    nature: 'Naturaleza'
+    animals: 'Animales'
+  images:
+    index:
+      title: 'Imagenes'
+      new_link: 'Nueva Imagen'
+    new:
+      title: 'Nueva %{model}'
